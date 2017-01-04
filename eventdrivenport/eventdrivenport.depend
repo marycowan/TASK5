@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1480889778 source:e:\portablegit-2.10.0-32-bit.7z\event-driven-iot-node\eventdrivenport\main.cpp
+	<iostream>
+	<unistd.h>
+	"sensor.h"
+	"iotDataQueue.h"
+
+1480534392 source:e:\portablegit-2.10.0-32-bit.7z\event-driven-iot-node\eventdrivenport\src\state.cpp
+
+1480533090 e:\portablegit-2.10.0-32-bit.7z\event-driven-iot-node\eventdrivenport\include\state.h
+
+1480510860 e:\portablegit-2.10.0-32-bit.7z\event-driven-iot-node\eventdrivenport\include\sensor.h
+
+1480509388 e:\portablegit-2.10.0-32-bit.7z\event-driven-iot-node\eventdrivenport\include\iotdataqueue.h
+
+1480890124 source:e:\portablegit-2.10.0-32-bit.7z\event-driven-iot-node\eventdrivenport\src\iotdataqueue.cpp
+	"iotDataQueue.h"
+	<iostream>
+
+1480534344 source:e:\portablegit-2.10.0-32-bit.7z\event-driven-iot-node\eventdrivenport\src\machine.cpp
+	"iotDataQueue.h"
+	"sensor.h"
+	"Machine.h"
+	"iotDataQueue.h"
+
+1480534360 e:\portablegit-2.10.0-32-bit.7z\event-driven-iot-node\eventdrivenport\include\machine.h
+
+1480886100 source:e:\portablegit-2.10.0-32-bit.7z\event-driven-iot-node\eventdrivenport\src\sensor.cpp
+	"sensor.h"
+
+1481116358 source:j:\portablegit-2.10.0-32-bit.7z\event-driven-iot-node\eventdrivenport\main.cpp
+	<iostream>
+	<unistd.h>
+	"sensor.h"
+	"iotDataQueue.h"
+
+1480510860 j:\portablegit-2.10.0-32-bit.7z\event-driven-iot-node\eventdrivenport\include\sensor.h
+
+1480509388 j:\portablegit-2.10.0-32-bit.7z\event-driven-iot-node\eventdrivenport\include\iotdataqueue.h
+
+1480890124 source:j:\portablegit-2.10.0-32-bit.7z\event-driven-iot-node\eventdrivenport\src\iotdataqueue.cpp
+	"iotDataQueue.h"
+	<iostream>
+
+1481116648 source:j:\portablegit-2.10.0-32-bit.7z\event-driven-iot-node\eventdrivenport\src\sensor.cpp
+	"sensor.h"
+	<stdlib.h>
+
+1481116854 source:c:\users\marye\desktop\portablegit-2.10.0-32-bit.7z\event-driven-iot-node\eventdrivenport\main.cpp
+	<iostream>
+	<unistd.h>
+	"sensor.h"
+	"iotDataQueue.h"
+
+1480510860 c:\users\marye\desktop\portablegit-2.10.0-32-bit.7z\event-driven-iot-node\eventdrivenport\include\sensor.h
+
+1480509388 c:\users\marye\desktop\portablegit-2.10.0-32-bit.7z\event-driven-iot-node\eventdrivenport\include\iotdataqueue.h
+
+1480890124 source:c:\users\marye\desktop\portablegit-2.10.0-32-bit.7z\event-driven-iot-node\eventdrivenport\src\iotdataqueue.cpp
+	"iotDataQueue.h"
+	<iostream>
+
+1481116648 source:c:\users\marye\desktop\portablegit-2.10.0-32-bit.7z\event-driven-iot-node\eventdrivenport\src\sensor.cpp
+	"sensor.h"
+	<stdlib.h>
+
+1481116854 source:c:\users\marye\desktop\portablegit-2.10.0-32-bit.7z\task5\eventdrivenport\main.cpp
+	<iostream>
+	<unistd.h>
+	"sensor.h"
+	"iotDataQueue.h"
+
+1480510860 c:\users\marye\desktop\portablegit-2.10.0-32-bit.7z\task5\eventdrivenport\include\sensor.h
+
+1480509388 c:\users\marye\desktop\portablegit-2.10.0-32-bit.7z\task5\eventdrivenport\include\iotdataqueue.h
+
+1480890124 source:c:\users\marye\desktop\portablegit-2.10.0-32-bit.7z\task5\eventdrivenport\src\iotdataqueue.cpp
+	"iotDataQueue.h"
+	<iostream>
+
+1481116648 source:c:\users\marye\desktop\portablegit-2.10.0-32-bit.7z\task5\eventdrivenport\src\sensor.cpp
+	"sensor.h"
+	<stdlib.h>
+
