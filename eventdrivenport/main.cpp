@@ -124,7 +124,7 @@ public:
     void sensing(Machine *m)
     {
         // int go;
-        usleep(50000);
+        usleep(5000000);
 //           cout << " press 1 to proceed from idle to sensing:";// User must press a button to move from idle to sensing.
 //          while (go !=1)
 //           cin >> go;// could use a timer either
@@ -197,7 +197,7 @@ int main()
     while(count<10)
     {
         string sensorData = IntToString(newTemparr[count])+",";
-        cout << "sensordata is " << sensorData<< "..converted to degrees Fahrenheit" << endl;
+        cout << "sensordata is " << sensorData<< "....converted to degrees Fahrenheit" << endl;
 
         //init winsock
         if (WSAStartup(MAKEWORD(2, 0), &wsaData) != 0)
